@@ -1,0 +1,19 @@
+{
+  "cars" : [
+    {
+      "make" : "Honda",
+      "model" : "Fit",
+      "price" : 19999.39
+    },
+    {
+      "make" : "Toyota",
+      "model" : "Camry",
+      "price" : 24123.99
+    },
+    {
+      "make" : "Nissan",
+      "model" : "Altima",
+      "price" : 23999.69
+    }
+  ]
+}

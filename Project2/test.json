@@ -1,0 +1,22 @@
+{
+  "lightbulbs" : [
+    {
+      "description" : "EcoSmart Dimmable",
+      "bulbType" : "LED",
+      "rating" : "60",
+      "price" : 1.62
+    },
+    {
+      "description" : "Philips Dimmable",
+      "bulbType" : "LED",
+      "rating" : "60",
+      "price" : 1.85
+    },
+    {
+      "description" : "EcoSmart Dimmable",
+      "bulbType" : "LED",
+      "rating" : "100",
+      "price" : 2.97
+    }
+  ]
+}
